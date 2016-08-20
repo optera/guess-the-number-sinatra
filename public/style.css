@@ -1,0 +1,22 @@
+html {
+  height: 100%;
+}
+
+body {
+  height:100%;
+  background-image: url("img/light-bg2.png");
+  text-align:center;
+}
+
+.title {
+  font-size: 5em;
+}
+
+.btn {
+  color: white;
+  background-color: purple;
+  text-decoration:none;
+  padding: 1em;
+  margin-bottom: 1.5em;
+  display: inline-block;
+}
